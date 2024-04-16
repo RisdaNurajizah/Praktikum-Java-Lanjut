@@ -5,21 +5,6 @@ public class EmployeeMahasiswa {
     private String alamat;
     private String tempatTanggalLahir;
 
-    public void krs() {
-        // aktivitas krs (mengisi data)
-        System.out.println("Mengisi data KRS...");
-    }
-
-    public void kuliah() {
-        // aktivitas kuliah (mengambil data)
-        System.out.println("Mengambil data kuliah...");
-    }
-
-    public void praktikum() {
-        // aktivitas praktikum (menampilkan data)
-        System.out.println("Menampilkan data praktikum...");
-    }
-
     // Constructor
     public EmployeeMahasiswa(String nama, String nim, String prodi, String alamat, String tempatTanggalLahir) {
         this.nim = nim;
@@ -79,9 +64,5 @@ public class EmployeeMahasiswa {
         System.out.println("Prodi: " + employee.getProdi());
         System.out.println("Alamat: " + employee.getAlamat());
         System.out.println("Tempat Tanggal Lahir: " + employee.getTempatTanggalLahir());
-
-        employee.krs();
-        employee.kuliah();
-        employee.praktikum();
     }
 }

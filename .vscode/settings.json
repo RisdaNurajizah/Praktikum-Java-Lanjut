@@ -1,0 +1,9 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Data_Perusahaan/libs/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar",
+        "c:\\Users\\asus\\OneDrive\\Dokumen\\Atribut Netbeans dan My-sql\\mysql-connector-java-5.1.48.jar"
+    ]
+}

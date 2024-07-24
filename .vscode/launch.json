@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DataPerusahaanGUI",
+            "request": "launch",
+            "mainClass": "GUI_Data_Perusahaan.DataPerusahaanGUI",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "DataPerusahaanGUI",
+            "request": "launch",
+            "mainClass": "Data_Perusahaan.DataPerusahaanGUI",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "GUIMhSiswa",
+            "request": "launch",
+            "mainClass": "Contoh_GUI.Contoh_GUI.GUIMhSiswa",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaGUI2",
+            "request": "launch",
+            "mainClass": "Contoh_GUI.Contoh_GUI.MahasiswaGUI2",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaGUI",
+            "request": "launch",
+            "mainClass": "Contoh_GUI.Contoh_GUI.MahasiswaGUI",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "GUISederhana",
+            "request": "launch",
+            "mainClass": "Contoh_GUI.Contoh_GUI.GUISederhana",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "AppSederahana",
+            "request": "launch",
+            "mainClass": "AppSederahana",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "FileHandler",
+            "request": "launch",
+            "mainClass": "FileHandler",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MainMgmt",
+            "request": "launch",
+            "mainClass": "sesi5.MainMgmt",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "EdibleMain",
+            "request": "launch",
+            "mainClass": "sesi5.EdibleMain",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MainEdible",
+            "request": "launch",
+            "mainClass": "sesi5.MainEdible",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MainAnimal",
+            "request": "launch",
+            "mainClass": "sesi5.MainAnimal",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Vehicle",
+            "request": "launch",
+            "mainClass": "sesi3.Vehicle",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "sesi5.Main",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "sesi6.Dog",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "BentukGeometri",
+            "request": "launch",
+            "mainClass": "sesi4.BentukGeometri",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "BentukGeometri",
+            "request": "launch",
+            "mainClass": "BentukGeometri",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Segitiga",
+            "request": "launch",
+            "mainClass": "sesi4.Segitiga",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Shape",
+            "request": "launch",
+            "mainClass": "sesi4.Shape",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "sesi4.Rectangle",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaGUI",
+            "request": "launch",
+            "mainClass": "Contoh_GUI_JSON.MahasiswaGUI",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaGUI",
+            "request": "launch",
+            "mainClass": "Contoh_GUI_dataBase.MahasiswaGUI",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Animal",
+            "request": "launch",
+            "mainClass": "sesi4.Animal",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Calculator$Main",
+            "request": "launch",
+            "mainClass": "sesi4.Calculator$Main",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Hierarki",
+            "request": "launch",
+            "mainClass": "sesi3.Hierarki",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaGUI",
+            "request": "launch",
+            "mainClass": "Contoh_GUI_FileCSV.MahasiswaGUI",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaGUI3",
+            "request": "launch",
+            "mainClass": "Contoh_GUI3.MahasiswaGUI3",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "GUIMhSiswa",
+            "request": "launch",
+            "mainClass": "contohgui.Contoh_GUI.GUIMhSiswa",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "GUISederhana",
+            "request": "launch",
+            "mainClass": "contohgui.Contoh_GUI.GUISederhana",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "GUISederhana",
+            "request": "launch",
+            "mainClass": "contoh_gui.Contoh_GUI.GUISederhana",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "GUIMhSiswa",
+            "request": "launch",
+            "mainClass": "contoh_gui.Contoh_GUI.GUIMhSiswa",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Motorcycle",
+            "request": "launch",
+            "mainClass": "sesi3.Motorcycle",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "sesi3.Main",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "DenganCntrktr",
+            "request": "launch",
+            "mainClass": "sesi3.DenganCntrktr",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CollectionsExample",
+            "request": "launch",
+            "mainClass": "CollectionsExample",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeMahasiswa",
+            "request": "launch",
+            "mainClass": "EmployeeMahasiswa",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "FileHandling",
+            "request": "launch",
+            "mainClass": "FileHandling",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "FinallyBlock",
+            "request": "launch",
+            "mainClass": "FinallyBlock",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "KalkulatorException",
+            "request": "launch",
+            "mainClass": "KalkulatorException",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Penggabungan",
+            "request": "launch",
+            "mainClass": "Penggabungan",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchBlock",
+            "request": "launch",
+            "mainClass": "TryCatchBlock",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "bublesort",
+            "request": "launch",
+            "mainClass": "bublesort",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "filewrit",
+            "request": "launch",
+            "mainClass": "filewrit",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "ClassSederhanaPerson",
+            "request": "launch",
+            "mainClass": "sesi1.ClassSederhanaPerson",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Mahasiswa",
+            "request": "launch",
+            "mainClass": "sesi1.Mahasiswa",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Person2",
+            "request": "launch",
+            "mainClass": "sesi1.Person2",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "PersonEncapsulation",
+            "request": "launch",
+            "mainClass": "sesi1.PersonEncapsulation",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Book",
+            "request": "launch",
+            "mainClass": "sesi2.Book",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Book2",
+            "request": "launch",
+            "mainClass": "sesi2.Book2",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "BookThis",
+            "request": "launch",
+            "mainClass": "sesi2.BookThis",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Mahasiswa(1)",
+            "request": "launch",
+            "mainClass": "sesi2.Mahasiswa",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "sesi3.Main2",
+            "projectName": "Praktikum Java Lanjut_1d2f837"
+        }
+    ]
+}
